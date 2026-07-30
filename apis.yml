@@ -1,8 +1,28 @@
 aid: markato
 name: Markato
-description: Markato is a company surfaced as a portfolio company of lightspeed-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Markato (legally On Your Marks) is a brand builder and distributor for health, beauty, and wellness
+  brands across Asia, positioning itself as a next-generation distribution disruptor. From bases in Hong
+  Kong, Singapore, Taiwan, Malaysia, Thailand, and Australia, it helps high-potential brands enter, grow,
+  and dominate the region's most competitive markets. Its capabilities span strategic channel development
+  into top-tier offline and online retailers (Sephora, Watsons, Mannings, SaSa), e-commerce and social
+  commerce operations across Shopee, TikTok, and Lazada, 360-degree marketing and brand building, and
+  end-to-end local operations, logistics, product registration, and compliance. Markato is backed by a
+  roughly US$4M seed round led by Lightspeed Venture Partners, with a team drawn from L'Oreal, P&G,
+  McKinsey, and Lane Crawford. Markato is a services and distribution business and does not currently
+  publish a public API, developer portal, or SDKs.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/cMmm7s5zRTiAd6vUi8kxNOMQpw.png
 url: https://raw.githubusercontent.com/api-evangelist/markato/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +32,31 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Distribution
+- Beauty
+- Cosmetics
+- Wellness
+- E-Commerce
+- Retail
+- Brand Building
+- Logistics
+- Asia
 apis: []
+common:
+- type: DomainSecurity
+  url: security/markato-domain-security.yml
+- type: Website
+  url: https://www.markato.com
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
