@@ -11,6 +11,17 @@ description: >-
   roughly US$4M seed round led by Lightspeed Venture Partners, with a team drawn from L'Oreal, P&G,
   McKinsey, and Lane Crawford. Markato is a services and distribution business and does not currently
   publish a public API, developer portal, or SDKs.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
