@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/markato/integrations
+- https://n8n.io/integrations/markato/
+- https://composio.dev/toolkits/markato
+- https://monid.ai/tools/markato
+checked:
+- https://composio.dev/toolkits/markato
+- https://monid.ai/tools/markato
+- https://n8n.io/integrations/markato/
+- https://zapier.com/apps/markato/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
